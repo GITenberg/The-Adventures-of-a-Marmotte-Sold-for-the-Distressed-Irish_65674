@@ -1,0 +1,31 @@
+_repo: The-Adventures-of-a-Marmotte-Sold-for-the-Distressed-Irish_65674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Eliza
+    aliases:
+    - Grey, Lady
+    - Spencer, Eliza
+    deathdate: 1898
+    gutenberg_agent_id: '53457'
+    url: http://www.gutenberg.org/2009/agents/53457
+    wikipedia: https://en.wikipedia.org/wiki/Eliza_Grey
+description: ''
+gutenberg_issued: '2021-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marmots -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Children and animals -- Juvenile fiction'
+- GITenberg
+title: 'The Adventures of a Marmotte
+
+  Sold for the Distressed Irish'
+url: http://www.gutenberg.org/ebooks/65674
